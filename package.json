@@ -1,0 +1,14 @@
+{
+  "name": "pizzaorder",
+  "version": "1.0.0",
+  "description": "Ejercicio CICE",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.0.0"
+  }
+}
